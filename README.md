@@ -1,4 +1,4 @@
-Обязательно создать в /database database.sqlite
+# Обязательно создать в /database database.sqlite
 
 # Установка зависимостей
 composer install
